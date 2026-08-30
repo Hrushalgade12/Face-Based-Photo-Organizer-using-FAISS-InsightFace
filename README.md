@@ -13,4 +13,5 @@ Features:
 🖥️ Simple Tkinter GUI
 📊 Processing progress and logs
 
+
 Tech: Python • InsightFace • FAISS • OpenCV • Tkinter • NumPy
